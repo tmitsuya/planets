@@ -1,4 +1,4 @@
-title: a nice paper about lonely mars
+title: a nice paper about lonely moon
 
 authors:
 T Mitsuya
