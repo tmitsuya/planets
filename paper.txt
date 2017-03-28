@@ -1,3 +1,8 @@
+ABSTRACT
+
+This is a paper by Tim, with "contributions" from Alex, which as with most contributions from faculty, will necessitate more work and many rollbacks. 
+
+
 Here are a few changes from Alex (vacuole)
 1
 2
