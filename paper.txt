@@ -1,4 +1,8 @@
 title: a nice paper about lonely mars
 
+authors:
+T Mitsuya
+K Munhall
+
 abstract:
 this is an abstract
